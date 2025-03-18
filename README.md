@@ -1,6 +1,6 @@
 # Proof of Persistent Aliveness for Cyber-Physical Systems
 
-This is a C++ project utilizing the MIRACL cryptographic library for cryptographic operations. The project contains the 'SPAC' folder, which includes files that can be compiled and executed.
+This is a C++ project utilizing the MIRACL cryptographic library for cryptographic operations. The project contains the `SPAC` folder, which includes files that can be compiled and executed.
 
 
 ## Project Structure
